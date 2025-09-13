@@ -1,0 +1,316 @@
+{
+  "query": {
+    "project": "all",
+    "images": [
+      "a03befe8e3db4120f7437aae80d0027a"
+    ],
+    "organs": [
+      "auto"
+    ],
+    "includeRelatedImages": false,
+    "noReject": false,
+    "type": null
+  },
+  "predictedOrgans": [
+    {
+      "image": "a03befe8e3db4120f7437aae80d0027a",
+      "filename": "tulip.PNG",
+      "organ": "habit",
+      "score": 0.36089
+    }
+  ],
+  "language": "en",
+  "preferedReferential": "k-world-flora",
+  "bestMatch": "Tulipa gesneriana L.",
+  "results": [
+    {
+      "score": 0.28526,
+      "species": {
+        "scientificNameWithoutAuthor": "Tulipa gesneriana",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tulipa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tulipa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Liliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Liliaceae"
+        },
+        "commonNames": [
+          "Didier's tulip",
+          "Garden tulip",
+          "Tulip"
+        ],
+        "scientificName": "Tulipa gesneriana L."
+      },
+      "gbif": {
+        "id": "5299675"
+      },
+      "powo": {
+        "id": "542923-1"
+      }
+    },
+    {
+      "score": 0.23384,
+      "species": {
+        "scientificNameWithoutAuthor": "Tulipa agenensis",
+        "scientificNameAuthorship": "Redouté",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tulipa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tulipa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Liliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Liliaceae"
+        },
+        "commonNames": [
+          "Eyed tulip",
+          "Common tulip",
+          "Tulip"
+        ],
+        "scientificName": "Tulipa agenensis Redouté"
+      },
+      "gbif": {
+        "id": "7792557"
+      },
+      "powo": {
+        "id": "542811-1"
+      }
+    },
+    {
+      "score": 0.12234,
+      "species": {
+        "scientificNameWithoutAuthor": "Tulipa fosteriana",
+        "scientificNameAuthorship": "W.Irving",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tulipa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tulipa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Liliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Liliaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Tulipa fosteriana W.Irving"
+      },
+      "gbif": {
+        "id": "5299364"
+      },
+      "powo": {
+        "id": "542916-1"
+      },
+      "iucn": {
+        "id": "184530386",
+        "category": "VU"
+      }
+    },
+    {
+      "score": 0.02356,
+      "species": {
+        "scientificNameWithoutAuthor": "Tulipa praestans",
+        "scientificNameAuthorship": "H.B.May",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tulipa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tulipa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Liliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Liliaceae"
+        },
+        "commonNames": [
+          "Multiflowering tulip",
+          "Tulip",
+          "Mountain Tulip"
+        ],
+        "scientificName": "Tulipa praestans H.B.May"
+      },
+      "gbif": {
+        "id": "5299655"
+      },
+      "powo": {
+        "id": "543045-1"
+      },
+      "iucn": {
+        "id": "184531943",
+        "category": "VU"
+      }
+    },
+    {
+      "score": 0.0063,
+      "species": {
+        "scientificNameWithoutAuthor": "Tulipa greigii",
+        "scientificNameAuthorship": "Regel",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tulipa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tulipa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Liliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Liliaceae"
+        },
+        "commonNames": [
+          "Greig’s Tulip"
+        ],
+        "scientificName": "Tulipa greigii Regel"
+      },
+      "gbif": {
+        "id": "5299454"
+      },
+      "powo": {
+        "id": "542931-1"
+      },
+      "iucn": {
+        "id": "184530401",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00622,
+      "species": {
+        "scientificNameWithoutAuthor": "Primula elliptica",
+        "scientificNameAuthorship": "Royle",
+        "genus": {
+          "scientificNameWithoutAuthor": "Primula",
+          "scientificNameAuthorship": "",
+          "scientificName": "Primula"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Primulaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Primulaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Primula elliptica Royle"
+      },
+      "gbif": {
+        "id": "5640921"
+      },
+      "powo": {
+        "id": "701874-1"
+      }
+    },
+    {
+      "score": 0.00452,
+      "species": {
+        "scientificNameWithoutAuthor": "Tulipa vvedenskyi",
+        "scientificNameAuthorship": "Botschantz.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tulipa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tulipa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Liliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Liliaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Tulipa vvedenskyi Botschantz."
+      },
+      "gbif": {
+        "id": "5299653"
+      },
+      "powo": {
+        "id": "543146-1"
+      },
+      "iucn": {
+        "id": "184538891",
+        "category": "NT"
+      }
+    },
+    {
+      "score": 0.00358,
+      "species": {
+        "scientificNameWithoutAuthor": "Tulipa bifloriformis",
+        "scientificNameAuthorship": "Vved.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tulipa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tulipa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Liliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Liliaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Tulipa bifloriformis Vved."
+      },
+      "gbif": {
+        "id": "5299573"
+      },
+      "powo": {
+        "id": "542848-1"
+      },
+      "iucn": {
+        "id": "184529388",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00325,
+      "species": {
+        "scientificNameWithoutAuthor": "Bellevalia paradoxa",
+        "scientificNameAuthorship": "(Fisch. & C.A.Mey.) Boiss.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bellevalia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bellevalia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Asparagaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Asparagaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Bellevalia paradoxa (Fisch. & C.A.Mey.) Boiss."
+      },
+      "gbif": {
+        "id": "2771873"
+      },
+      "powo": {
+        "id": "531843-1"
+      }
+    },
+    {
+      "score": 0.00297,
+      "species": {
+        "scientificNameWithoutAuthor": "Scilla libanotica",
+        "scientificNameAuthorship": "Speta",
+        "genus": {
+          "scientificNameWithoutAuthor": "Scilla",
+          "scientificNameAuthorship": "",
+          "scientificName": "Scilla"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Asparagaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Asparagaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Scilla libanotica Speta"
+      },
+      "gbif": {
+        "id": "2767305"
+      },
+      "powo": {
+        "id": "540881-1"
+      },
+      "iucn": {
+        "id": "13158354",
+        "category": "LC"
+      }
+    }
+  ],
+  "version": "2025-01-17 (7.3)"
+}
